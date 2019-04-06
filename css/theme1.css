@@ -77,7 +77,11 @@ body {
   justify-content: space-evenly;
   margin-top: 1rem;
 }
-
+.socialIcons a,
+.socialIcons a:active,
+.socialIcons a:hover:visited {
+  color: #000000;
+}
 .postIcons {
   display: flex;
   justify-content: space-evenly;
