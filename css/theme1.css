@@ -180,3 +180,9 @@ hr {
   margin-top: 1rem;
   cursor: pointer;
 }
+.navigation a,
+.quick-links a {
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+}
