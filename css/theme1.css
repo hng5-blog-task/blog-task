@@ -70,6 +70,7 @@ body {
 .socialIcons {
     display: flex;
     justify-content: space-evenly;
+    margin-top: 1rem;
 }
 
 .postIcons {
@@ -131,4 +132,15 @@ hr {
 .profileInfo {
     max-width: 50%;
     margin-left: 130px;
+}
+
+/* .profileAbout {
+    text-decoration: 
+} */
+
+.morePosts {
+    background: none;
+    border: none;
+    width: 63%;
+    margin-top: 1rem;
 }
