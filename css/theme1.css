@@ -4,10 +4,11 @@
 body {
   margin: 0px;
 }
+
 .header {
-  height: 30px;
-  width: 100%;
-  background-color: #041d36;
+    height: 20px;
+    width: 100%;
+    background-color: #041D36;
 }
 
 .footer {
@@ -23,23 +24,23 @@ body {
 }
 
 .sidebar {
-  width: 30%;
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding-top: 1em;
-  justify-content: space-between;
-  text-align: center;
+    width: 28%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 1em;
+    justify-content: space-between;
+    text-align: center;
 }
 
 .main {
-  width: 69%;
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  padding-top: 1em;
-  padding-left: 1em;
+    width: 68%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding-top: 1em;
+    padding-left: 1em;
 }
 
 .profileImage {
@@ -70,6 +71,14 @@ body {
 .postDetails {
   margin-left: 1em;
   max-width: 50%;
+}
+
+.postDetails > h1 {
+    margin-bottom: 0
+}
+
+.postDetails > h3 {
+    margin-top: 0
 }
 
 .socialIcons {
@@ -132,13 +141,9 @@ hr {
 .postActions {
   display: flex;
 }
-.postActions * {
-  background-color: transparent;
-  border: none;
-  cursor: pointer;
-}
-.postActions *:nth-child(1) {
-  margin-right: 1rem;
+
+#like {
+    margin-right: 1rem;
 }
 
 .postDate {
@@ -150,13 +155,21 @@ hr {
   margin-left: 130px;
 }
 
-/* .profileAbout {
-    text-decoration: 
-} */
+.profileAbout {
+    font-style: italic; 
+}
+
+.morePostsContainer {
+    display: flex;
+    justify-content: center;
+    width: 65%;
+    margin-left: 5em;
+}
 
 .morePosts {
-  background: none;
-  border: none;
-  width: 63%;
-  margin-top: 1rem;
+    margin-top: 1rem;
+}
+
+.morePosts:hover {
+    cursor: pointer;
 }
