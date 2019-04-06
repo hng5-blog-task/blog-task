@@ -40,11 +40,18 @@ body {
     border-radius: 50%
 }
 
-.postInput {
-    height: 100px;
-    width: 63%;
+.postInput-label {
+    color: #828282;
 }
 
+.postInput {
+    height: 50px;
+    width: 100%;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #828282;
+    margin-bottom: 1rem;
+}
 .post {
     display: flex;
     margin-top: 2em;
@@ -58,4 +65,43 @@ body {
 .socialIcons {
     display: flex;
     justify-content: space-evenly;
+}
+
+.postIcons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.postIcons > i {
+    margin-right: 1rem;
+}
+
+.createPost {
+    width: 63%;
+    background-color: #F2F2F2;
+    padding: 1rem;
+    border-radius: 1%;
+    margin-bottom: 1rem;
+}
+
+.postInput-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.postButton {
+    background-color: #06223E;
+    color: #FFF;
+    border-radius: 5%;
+    font-size: 1rem;
+    width: 10%;
+}
+
+hr {
+    display: inline-block;
+    width: 48%;
+}
+
+.sort {
+    font-weight: 600;
 }
