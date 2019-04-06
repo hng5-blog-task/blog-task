@@ -22,7 +22,7 @@ body {
 }
 
 .sidebar {
-    width: 30%;
+    width: 28%;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -33,7 +33,7 @@ body {
 }
 
 .main {
-    width: 69%;
+    width: 68%;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -134,9 +134,9 @@ hr {
     margin-left: 130px;
 }
 
-/* .profileAbout {
-    text-decoration: 
-} */
+.profileAbout {
+    font-style: italic; 
+}
 
 .morePosts {
     background: none;
