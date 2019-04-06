@@ -54,3 +54,8 @@ body {
     margin-left: 1em;
     max-width: 50%;
 }
+
+.socialIcons {
+    display: flex;
+    justify-content: space-evenly;
+}
