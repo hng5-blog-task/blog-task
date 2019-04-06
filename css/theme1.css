@@ -23,7 +23,7 @@ body {
 }
 
 .sidebar {
-  width: 30%;
+  width: 28%;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -34,7 +34,7 @@ body {
 }
 
 .main {
-  width: 69%;
+  width: 68%;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -70,6 +70,14 @@ body {
 .postDetails {
   margin-left: 1em;
   max-width: 50%;
+}
+
+.postDetails > h1 {
+  margin-bottom: 0;
+}
+
+.postDetails > h3 {
+  margin-top: 0;
 }
 
 .socialIcons {
@@ -154,13 +162,27 @@ hr {
   margin-left: 130px;
 }
 
-/* .profileAbout {
-    text-decoration: 
-} */
+.profileAbout {
+  font-style: italic;
+}
+
+.morePostsContainer {
+  display: flex;
+  justify-content: center;
+  width: 65%;
+  margin-left: 5em;
+}
 
 .morePosts {
   background: none;
   border: none;
   width: 63%;
   margin-top: 1rem;
+  cursor: pointer;
+}
+.navigation a,
+.quick-links a {
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
 }

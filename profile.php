@@ -86,7 +86,7 @@
             <div class="postFooter">
               <div class="postDate">25th April 2018</div>
               <div class="postActions">
-                <button><i class="fas fa-thumbs-up"></i>Like</buton>
+                <button><i class="fas fa-thumbs-up"></i>Like</button>
                   <button><i class="fas fa-comment-alt"></i>Comment</button>
               </div>
             </div>
