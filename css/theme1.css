@@ -68,6 +68,14 @@ body {
     max-width: 50%;
 }
 
+.postDetails > h1 {
+    margin-bottom: 0
+}
+
+.postDetails > h3 {
+    margin-top: 0
+}
+
 .socialIcons {
     display: flex;
     justify-content: space-evenly;
@@ -122,7 +130,7 @@ hr {
     display: flex;
 }
 
-.postActions:first-child {
+#like {
     margin-right: 1rem;
 }
 
@@ -139,9 +147,17 @@ hr {
     font-style: italic; 
 }
 
+.morePostsContainer {
+    display: flex;
+    justify-content: center;
+    width: 65%;
+    margin-left: 5em;
+}
+
 .morePosts {
-    background: none;
-    border: none;
-    width: 63%;
     margin-top: 1rem;
+}
+
+.morePosts:hover {
+    cursor: pointer;
 }
