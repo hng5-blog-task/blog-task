@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Landing Page</title>
+    <title>Welcome</title>
     <link rel="stylesheet" href="css/theme1.css">
     <link rel="stylesheet" href="bootstrap-4.1.3-dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
@@ -14,7 +14,7 @@
 </head>
 <body>
     <div class="container-fluid">
-        <div class="row ml-md-3 d-flex flex-column">
+        <div class="row ml-md-3 d-flex flex-column landing-page-container">
             <div>
                 <h2 class="landing-page-head text-left"><a href="#">The Platform </a></h2>
             </div>
