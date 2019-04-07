@@ -16,7 +16,7 @@
     <div class="container-fluid">
         <div class="row ml-md-3 d-flex flex-column landing-page-container">
             <div>
-                <h2 class="landing-page-head text-left"><a href="#">The Platform </a></h2>
+                <h2 class="landing-page-head text-left"><a href="#">The Platform</a></h2>
             </div>
 
 
