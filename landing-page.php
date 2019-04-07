@@ -20,11 +20,11 @@
 
 
 
-            <div class="row d-flex flex-column">
+            <div class="row mx-0 d-flex flex-column">
                 <h5 class="landing-page-greeting">Hello Mark Essien,</h5>
-                <div class="row d-flex flex-row">
-                    <h1 class="col-md-8 landing-page-main-header">Welcome to The Platform </h1>
-                    <button class="landing-page-btn align-self-end">Join Now</button>
+                <div class="d-flex flex-row">
+                    <h1 class="landing-page-main-header">Welcome to<br/>The Platform </h1>
+                    <button class="landing-page-btn align-self-end"><a href="#">Join Now</a></button>
                 </div>
                 <p class="col-md-4 mr-auto landing-page-info">Welcome to the Utopian future, you no longer need to sign up to enjoy your favourite news sources, Just Join us now to have access and your details will be automatically generated. </p>
             </div>
