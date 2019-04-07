@@ -65,8 +65,39 @@
             <div class="col-md-9">
                 
                 <!-- <div class=""> -->
+
+                    <div class="row d-flex flex-column post-section">
+
+                        <textarea class="post-input" type="text" name="post-input" placeholder="What’s happening?"></textarea>
+
+                        <div class="row mx-0 d-flex flex-row mt-auto justify-content-between">
+                            <div class="post-action-right">
+                                <a class="post-action-item" href="#css"><img src="img/text.svg"></a>
+                                <a class="post-action-item" href="#css"><img src="img/italic.svg"></a>
+                                <a class="post-action-item" href="#css"><img src="img/link-in.svg"></a>
+                                <a class="post-action-item" href="#css"><img src="img/underline.svg"></a>
+                                <a class="post-action-item" href="#css"><img src="img/bold.svg"></a>
+                            </div>
+
+                            <div class="post-action-left">
+                                <a class="post-action-item" href="#css"><img src="img/attachment.svg"></a>
+                                <a class="post-action-item" href="#css"><img src="img/mic.svg"></a>
+                                <a class="post-action-item" href="#css"><img src="img/link.svg"></a>
+                                <button class="btn publish-btn post-action-item">Publish</button>
+                            </div>
+                            
+                        </div>
+                    </div>
+
+                    <div class="row mx-0 d-flex flex-row align-items-center  justify-content-between">
+                        <div class="col-md-8 line ml-md-5"></div>
+                        <div class="col d-inline-flex mr-md-5 flex-row justify-content-between">
+                            <p class="post-filter"><span class="post-filter-title">Sort by:</span> Most Recent Posts</p>
+                            <img src="img/caret.svg">
+                        </div>
+                    </div>
                     
-                    <div class="row mx-0 blog-item-wrapper">
+                    <div class="row mx-0 mt-md-4 blog-item-wrapper first-child">
                         <div class="d-flex flex-row px-0 blog-item">
                             <div class="blog-item-author-avatar-wrapper">
                                 <img class="blog-item-author-avatar" src="img/avatar-2.jpeg">
