@@ -23,7 +23,7 @@ a{
 
 .header-img{
 	width: 100%;
-	min-height: 340px;
+	height: 340px;
 }
 
 .profile-section{
@@ -333,5 +333,12 @@ color: #333333;
 
 .post-filter-title{
 	font-weight: normal;
+}
+
+@media (max-width: 1439px) {
+
+	.header-img{
+		height: 240px;
+	}
 }
 

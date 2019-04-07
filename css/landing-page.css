@@ -1,3 +1,29 @@
+html,body{
+	margin:0;
+	padding: 0;
+	overflow-x: hidden;
+	background-color: #fff;
+	cursor: default;
+}
+ul,p,h1,h2,h3,h4,h5,h6{
+	margin:0;
+	padding:0;
+}
+li{
+	list-style-type: none;
+}
+
+a{
+	text-decoration: none;
+	color: inherit;
+	font-family: inherit;
+	font-size: inherit;
+}
+a:hover{
+	text-decoration: none;
+	color: inherit;
+}
+
 .landing-page-head{
 	font-family: Open Sans;
 font-style: normal;
@@ -9,6 +35,11 @@ text-decoration-line: underline;
 color: #3667E7;
 margin-top: 30px;
 margin-bottom: 60px;
+}
+
+.landing-page-head a:hover{
+	text-decoration: none;
+	color: inherit;
 }
 
 .landing-page-greeting{
@@ -30,7 +61,6 @@ font-size: 144px;
 line-height: normal;
 
 color: #3667E7;
-margin-bottom: 9px;
 }
 
 .landing-page-info{
@@ -43,4 +73,32 @@ line-height: normal;
 color: #3667E7;
 margin-top: 9px;
 
+}
+
+.landing-page-btn{
+	font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: normal;
+text-align: center;
+
+color: #FFFFFF;
+
+border-radius: 1px;
+background: #3667E7;
+box-shadow: 0px 4px 15px rgba(54, 103, 231, 0.5);
+border-radius: 5px;
+/*height: 18px;*/
+padding: 10px 20px;
+margin-bottom: 40px;
+margin-left: 100px;
+cursor: pointer;
+}
+
+@media (max-width: 1439px) {
+
+	.landing-page-main-header{
+		font-size: 100px;
+	}
 }
