@@ -48,6 +48,7 @@ a:hover {
   margin-bottom: 60px;
 }
 
+
 .landing-page-head a:hover {
   text-decoration: none;
   color: inherit;
@@ -63,6 +64,7 @@ a:hover {
   color: #3667e7;
   margin-top: 60px;
 }
+
 
 .landing-page-main-header {
   font-family: Open Sans;
@@ -81,8 +83,10 @@ a:hover {
   font-size: 1.1rem;
   line-height: normal;
 
+
   color: #3667e7;
   margin-top: 9px;
+
 }
 
 .landing-page-btn {
@@ -118,3 +122,4 @@ a:hover {
     font-size: 100px;
   }
 }
+
