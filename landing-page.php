@@ -13,17 +13,20 @@
 </head>
 <body>
     <div class="container-fluid">
-        <div class="row d-flex flex-column">
+        <div class="row ml-md-3 d-flex flex-column">
             <div>
-                <h2 class="landing-page-head text-left">The Platform </h2>
+                <h2 class="landing-page-head text-left"><a href="#">The Platform </a></h2>
             </div>
 
 
 
-            <div class="row d-flex flex">
+            <div class="row d-flex flex-column">
                 <h5 class="landing-page-greeting">Hello Mark Essien,</h5>
-                <h1 class="landing-page-main-header">Welcome to The Platform </h1>
-                <p class="landing-page-info">Welcome to the Utopian future, you no longer need to sign up to enjoy your favourite news sources, Just Join us now to have access and your details will be automatically generated. </p>
+                <div class="row d-flex flex-row">
+                    <h1 class="col-md-8 landing-page-main-header">Welcome to The Platform </h1>
+                    <button class="landing-page-btn align-self-end">Join Now</button>
+                </div>
+                <p class="col-md-4 mr-auto landing-page-info">Welcome to the Utopian future, you no longer need to sign up to enjoy your favourite news sources, Just Join us now to have access and your details will be automatically generated. </p>
             </div>
         </div>
     </div>
