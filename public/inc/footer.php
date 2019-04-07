@@ -1,5 +1,9 @@
 <html>
-
+<?php
+    //this picks the post url and uses in disqus to load the comments assocaited with a post
+    $post_url = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . ":$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"; 
+    $post_id = ''; //Enter Pst ID here
+?>
 <body>
 <div id="disqus_thread"></div>
 <script>

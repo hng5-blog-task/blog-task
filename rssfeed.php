@@ -4,12 +4,13 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>Platform | Hompage</title>
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link
       href="https://fonts.googleapis.com/css?family=Hind:400,500,700"
       rel="stylesheet"
     />
-    <link rel="stylesheet" type="text/css" media="screen" href="css/homepage.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="css/rssfeed-light.css" />
     <link
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
