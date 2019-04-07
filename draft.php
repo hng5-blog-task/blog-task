@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="bootstrap-4.1.3-dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="css/draft_dark.css">
+    <link rel="stylesheet" type="text/css" href="css/draft_light.css">
 </head>
 <body>
     <div class="container-fluid">
@@ -52,61 +52,20 @@
                                      <div class="row d-flex flex-row align-items-center justify-content-between mx-0">
                                         <div class="d-flex flex-row align-items-center">
                                             <div class="blog-item-tag-wrapper">
-                                                <p class="blog-item-tag text-center">Javascript</p>
+                                                <button type="button" class="btn btn-tag">Javascript</button>
                                             </div>
                                             <div class="blog-item-tag-wrapper">
-                                                <p class="blog-item-tag text-center">Tech</p>
+                                                <button type="button" class="btn btn-tag">Tech</button>
                                             </div>
                                             <div class="blog-item-tag-wrapper">
-                                                <p class="blog-item-tag text-center">Hotels</p>
+                                                <button type="button" class="btn btn-tag">Hotels</button>
                                             </div>
 
                                         </div>
 
                                         <div class="d-flex flex-row align-items-center">
-                                            <i class="far fa-edit"></i>
-                                            <i class="far fa-trash-alt"></i>
-                                        </div>
-                                    </div>
-                                    <p class="blog-item-date">3rd, April 2019 </p>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-
-                    <div class="row mx-0 blog-item-wrapper">
-                        <div class="d-flex flex-row px-0 blog-item">
-
-                            <div class="blog-item-main d-flex flex-row">
-                                <div class="blog-item-img-wrapper">
-                                    <img class="blog-item-img" src="img/image-1.png">
-                                </div>
-                                <div class="d-flex flex-column blog-item-main-content">
-                                     <div class="d-flex flex-row justify-content-between">
-                                         <h2 class="blog-item-header text-left">This is my first Post</h2>
-
-                                     </div>
-
-                                     <p class="blog-item-content text-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dgiat nuor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dgiat nulla pariatur ....</p>
-                                     <div class="row d-flex flex-row align-items-center justify-content-between mx-0">
-                                        <div class="d-flex flex-row align-items-center">
-                                            <div class="blog-item-tag-wrapper">
-                                                <p class="blog-item-tag text-center">Javascript</p>
-                                            </div>
-                                            <div class="blog-item-tag-wrapper">
-                                                <p class="blog-item-tag text-center">Tech</p>
-                                            </div>
-                                            <div class="blog-item-tag-wrapper">
-                                                <p class="blog-item-tag text-center">Hotels</p>
-                                            </div>
-
-                                        </div>
-
-                                        <div class="d-flex flex-row align-items-center">
-                                            <i class="far fa-edit"></i>
-                                            <i class="far fa-trash-alt"></i>
+                                            <a href="#"><i class="far fa-edit"></i></a>
+                                            <a href="#"><i class="far fa-trash-alt"></i></a>
                                         </div>
                                     </div>
                                     <p class="blog-item-date">3rd, April 2019 </p>
@@ -134,20 +93,20 @@
                                      <div class="row d-flex flex-row align-items-center justify-content-between mx-0">
                                         <div class="d-flex flex-row align-items-center">
                                             <div class="blog-item-tag-wrapper">
-                                                <p class="blog-item-tag text-center">Javascript</p>
+                                                <button type="button" class="btn btn-tag">Javascript</button>
                                             </div>
                                             <div class="blog-item-tag-wrapper">
-                                                <p class="blog-item-tag text-center">Tech</p>
+                                                <button type="button" class="btn btn-tag">Tech</button>
                                             </div>
                                             <div class="blog-item-tag-wrapper">
-                                                <p class="blog-item-tag text-center">Hotels</p>
+                                                <button type="button" class="btn btn-tag">Hotels</button>
                                             </div>
 
                                         </div>
 
                                         <div class="d-flex flex-row align-items-center">
-                                            <i class="far fa-edit"></i>
-                                            <i class="far fa-trash-alt"></i>
+                                            <a href="#"><i class="far fa-edit"></i></a>
+                                            <a href="#"><i class="far fa-trash-alt"></i></a>
                                         </div>
                                     </div>
                                     <p class="blog-item-date">3rd, April 2019 </p>
@@ -175,20 +134,61 @@
                                      <div class="row d-flex flex-row align-items-center justify-content-between mx-0">
                                         <div class="d-flex flex-row align-items-center">
                                             <div class="blog-item-tag-wrapper">
-                                                <p class="blog-item-tag text-center">Javascript</p>
+                                                <button type="button" class="btn btn-tag">Javascript</button>
                                             </div>
                                             <div class="blog-item-tag-wrapper">
-                                                <p class="blog-item-tag text-center">Tech</p>
+                                                <button type="button" class="btn btn-tag">Tech</button>
                                             </div>
                                             <div class="blog-item-tag-wrapper">
-                                                <p class="blog-item-tag text-center">Hotels</p>
+                                                <button type="button" class="btn btn-tag">Hotels</button>
                                             </div>
 
                                         </div>
 
                                         <div class="d-flex flex-row align-items-center">
-                                            <i class="far fa-edit"></i>
-                                            <i class="far fa-trash-alt"></i>
+                                            <a href="#"><i class="far fa-edit"></i></a>
+                                            <a href="#"><i class="far fa-trash-alt"></i></a>
+                                        </div>
+                                    </div>
+                                    <p class="blog-item-date">3rd, April 2019 </p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+
+                    <div class="row mx-0 blog-item-wrapper">
+                        <div class="d-flex flex-row px-0 blog-item">
+
+                            <div class="blog-item-main d-flex flex-row">
+                                <div class="blog-item-img-wrapper">
+                                    <img class="blog-item-img" src="img/image-1.png">
+                                </div>
+                                <div class="d-flex flex-column blog-item-main-content">
+                                     <div class="d-flex flex-row justify-content-between">
+                                         <h2 class="blog-item-header text-left">This is my first Post</h2>
+
+                                     </div>
+
+                                     <p class="blog-item-content text-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dgiat nuor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dgiat nulla pariatur ....</p>
+                                     <div class="row d-flex flex-row align-items-center justify-content-between mx-0">
+                                        <div class="d-flex flex-row align-items-center">
+                                            <div class="blog-item-tag-wrapper">
+                                                <button type="button" class="btn btn-tag">Javascript</button>
+                                            </div>
+                                            <div class="blog-item-tag-wrapper">
+                                                <button type="button" class="btn btn-tag">Tech</button>
+                                            </div>
+                                            <div class="blog-item-tag-wrapper">
+                                                <button type="button" class="btn btn-tag">Hotels</button>
+                                            </div>
+
+                                        </div>
+
+                                        <div class="d-flex flex-row align-items-center">
+                                            <a href="#"><i class="far fa-edit"></i></a>
+                                            <a href="#"><i class="far fa-trash-alt"></i></a>
                                         </div>
                                     </div>
                                     <p class="blog-item-date">3rd, April 2019 </p>

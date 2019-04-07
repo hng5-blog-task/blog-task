@@ -3,6 +3,8 @@ mylo carson 2019
 iMprojekt 2019
 **/
 
+
+/* Shared attribute - Sidebar + Blog item */
 html,body{
 	margin:0;
 	padding: 0;
@@ -14,56 +16,6 @@ ul,p,h1,h2,h3,h4,h5,h6{
 	font-weight: 500;
 	margin:0;
 	padding:0;
-	color: #fff;
-}
-
-li{
-	list-style-type: none;
-}
-
-a{
-	text-decoration: none;
-	color: inherit;
-	font-family: inherit;
-	font-size: inherit;
-}
-
-.profile-section{
-	background: #04274C;
-}
-
-.profile-img-wrapper{
-	position: absolute;
-	top: -120px;
-	margin-bottom: -120px;
-}
-
-.profile-draft{
-	margin-top: 100px;
-}
-
-.profile-draft{
-	font-family: 'Open Sans', sans-serif;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 36.25px;
-	line-height: normal;
-	text-align: center;
-	letter-spacing: -0.04em;
-	margin-bottom: 6px
-}
-
-.btn-post {
-	background-color: #3667e7;
-	box-shadow: 3px 8px 13px rgba(0, 0, 0, 0.2);
-	color: #fff;
-	font-weight: bold;
-	margin:2em 0 5em 0;
-}
-
-.btn-post:hover {
-	background-color: #0069d9;
-	box-shadow: 3px 8px 13px rgba(0, 0, 0, 0.2);
 	color: #fff;
 }
 
@@ -80,6 +32,44 @@ a{
 	color: #000;
 }
 
+
+/* Sidebar attriutes */
+.profile-section{
+	background: #04274C;
+}
+
+.profile-tag {
+	padding-left: 1em;
+}
+
+.profile-draft{
+	font-family: 'Open Sans', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36.25px;
+	line-height: normal;
+	text-align: center;
+	letter-spacing: -0.04em;
+	margin-bottom: 6px;
+	margin-top: 34px;
+}
+
+.btn-post {
+	background-color: #3667e7;
+	box-shadow: 3px 8px 13px rgba(0, 0, 0, 0.2);
+	color: #fff;
+	font-weight: bold;
+	margin:2em 0 3em 0;
+}
+
+.btn-post:hover {
+	background-color: #003770;
+	box-shadow: 3px 8px 13px rgba(0, 0, 0, 0.2);
+	color: #fff;
+}
+
+
+/* Blog attributes */
 .fa, .far, .fas {
     font-family: "Font Awesome 5 Free";
 	 font-size: 25px;
@@ -96,10 +86,6 @@ a{
 
 p.blog-item-tag.text-center {
 	color:#000;
-}
-
-.menu-wrapper{
- 	margin:68px 0;
 }
 
 .blog-item-wrapper{
@@ -157,24 +143,14 @@ margin-bottom: 6px;
 color: #fff;
 }
 
-.blog-item-tag-wrapper{
-	background: #AECDEE;
-border-radius: 5px;
-margin: 6px 6px;
-padding: 5px 17px;
-}
 .blog-item-tag-wrapper:first-child{
 	margin-left: 0;
 }
 
-.blog-item-tag-wrapper:last-child{
-
-}
-
 .blog-item-date{
-	font-family: Open Sans;
-font-style: normal;
-font-weight: 300;
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 400;
 font-size: 12px;
 line-height: normal;
 margin-top: 6px;
