@@ -7,12 +7,16 @@ html,body{
 	margin:0;
 	padding: 0;
 	overflow-x: hidden;
-	background-color: #fff;
+	background-color: #07223E;
 }
+
 ul,p,h1,h2,h3,h4,h5,h6{
+	font-weight: 500;
 	margin:0;
 	padding:0;
+	color: #fff;
 }
+
 li{
 	list-style-type: none;
 }
@@ -25,7 +29,7 @@ a{
 }
 
 .profile-section{
-	background: rgba(243, 243, 243, 0.62);
+	background: #04274C;
 }
 
 .profile-img-wrapper{
@@ -50,9 +54,10 @@ a{
 }
 
 .btn-post {
-	background-color: #fff;
+	background-color: #3667e7;
 	box-shadow: 3px 8px 13px rgba(0, 0, 0, 0.2);
-	color: #000;
+	color: #fff;
+	font-weight: bold;
 	margin:2em 0 5em 0;
 }
 
@@ -70,9 +75,9 @@ a{
 }
 
 .btn-tag:hover {
-	background-color: #0069d9;
+	background-color: #3667e7;
 	box-shadow: 3px 8px 13px rgba(0, 0, 0, 0.2);
-	color: #fff;
+	color: #000;
 }
 
 .fa, .far, .fas {
@@ -82,11 +87,15 @@ a{
 }
 
 .fa-edit {
-	color: #800080;
+	color: #3667e7;
 }
 
 .fa-trash-alt{
 	color: #ff0000;
+}
+
+p.blog-item-tag.text-center {
+	color:#000;
 }
 
 .menu-wrapper{
@@ -106,7 +115,7 @@ a{
 }
 
 .blog-item-main{
-	background: #F8F8F8;
+	background: #04274C;
 box-shadow: 0px 4px 13px rgba(0, 0, 0, 0.12);
 border-radius: 11px;
 }
@@ -134,7 +143,7 @@ font-weight: bold;
 font-size: 28px;
 line-height: normal;
 margin-top: 15px;
-color: #000000;
+color: #fff;
 }
 
 .blog-item-content{
@@ -145,7 +154,7 @@ font-size: 13px;
 line-height: normal;
 margin-bottom: 6px;
 
-color: #000000;
+color: #fff;
 }
 
 .blog-item-tag-wrapper{
@@ -170,7 +179,7 @@ font-size: 12px;
 line-height: normal;
 margin-top: 6px;
 margin-bottom: 11px;
-color: #000;
+color: #fff;
 }
 
 .blog-item-action{
