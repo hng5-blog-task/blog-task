@@ -1,6 +1,6 @@
 # Blog Task
 
-> This the Frontend Branch for the Team DragonBlade.
+> This the Frontend Branch for the Team Dragon Riders.
 
 ## Installation
  **This project works with PHP**
@@ -14,6 +14,7 @@ OR
 * ``` use XAMPP or WAMPP```
 ### Notice
 * For every task you, dont push to Master!!!
+* All icons are on the designs. Dont use Font Awesome. Thanks.
 * Create a well detailed Pull Request please. Add screenshots of tasks done. So we wont take time to review your PR.
 * Please and Please , dont override peoples work. So there won't be conflicts up and down.
 * Thanks . Enjoy!!!

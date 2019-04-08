@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
   <!-- internal styling just in case this page will be imported as a module -->
   <style>
     *{
@@ -62,12 +62,12 @@
  
 <body class="">
   <!-- Include external JS libs. -->
-  <script type="text/javascript" src="js/jquery-331.min.js"></script>
+  <script type="text/javascript" src="assets/js/jquery-331.min.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.25.0/codemirror.min.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.25.0/mode/xml/xml.min.js"></script>
  
   <!-- Include Editor JS files. -->
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/froala-editor@2.5.1//js/froala_editor.pkgd.min.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/froala-editor@2.5.1/js/froala_editor.pkgd.min.js"></script>
   <div class="main-content">
     <h2>New Post</h2>
     <form>
