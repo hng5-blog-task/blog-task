@@ -9,7 +9,7 @@
     <title>Profile Setting</title>
     <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css?family=Hind:400,500,700" rel="stylesheet">
-    <link rel="stylesheet" href="css/profile-user-setting.css">
+    <link rel="stylesheet" href="assets/css/profile-user-setting.css">
 </head>
 <body>
     <main class="motuns-main-container">
@@ -46,7 +46,7 @@
                     
                 </form> 
                 <div class="d-grid">
-                    <img src="/img/avatar-2.jpeg" alt="" class="avatar">
+                    <img src="/assets/img/avatar-2.jpeg" alt="" class="avatar">
                     <button class="upcase">
                         update
                     </button>
