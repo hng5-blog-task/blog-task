@@ -82,7 +82,7 @@
 
                             <div class="blog-item-main d-flex flex-row">
                                 <div class="blog-item-img-wrapper">
-                                    <img class="blog-item-img" src="img/image-1.png">
+                                    <img class="blog-item-img" src="assets/img/image-1.png">
                                 </div>
                                 <div class="d-flex flex-column blog-item-main-content">
                                      <div class="d-flex flex-row justify-content-between">
@@ -123,7 +123,7 @@
 
                             <div class="blog-item-main d-flex flex-row">
                                 <div class="blog-item-img-wrapper">
-                                    <img class="blog-item-img" src="img/image-1.png">
+                                    <img class="blog-item-img" src="assets/img/image-1.png">
                                 </div>
                                 <div class="d-flex flex-column blog-item-main-content">
                                      <div class="d-flex flex-row justify-content-between">
@@ -164,7 +164,7 @@
 
                             <div class="blog-item-main d-flex flex-row">
                                 <div class="blog-item-img-wrapper">
-                                    <img class="blog-item-img" src="img/image-1.png">
+                                    <img class="blog-item-img" src="assets/img/image-1.png">
                                 </div>
                                 <div class="d-flex flex-column blog-item-main-content">
                                      <div class="d-flex flex-row justify-content-between">

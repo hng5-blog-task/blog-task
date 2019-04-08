@@ -21,7 +21,7 @@
             
             <div class="col-md-3 d-flex flex-column align-items-center profile-section">
                 <div class="profile-img-wrapper">
-                    <img class="profile-img" src="img/profile.png">
+                    <img class="profile-img" src="assets/img/profile.png">
                 </div>
                 <div class="profile-main">
                     <h3 class="profile-name">Paul Jephtah</h3>
@@ -29,9 +29,9 @@
                     <p class="profile-motto">I’m kinda weird in a very good way.... I design for survival</p>
                 </div>
                 <div class="profile-social-wrapper">
-                    <a class="profile-social-icon" href="#"><img  src="img/github-logo.svg"></a>
-                    <a  class="profile-social-icon" href="#"><img  src="img/dribble.svg"></a>
-                    <a  class="profile-social-icon" href="#"><img src="img/rss-symbol.svg"></a>
+                    <a class="profile-social-icon" href="#"><img  src="assets/img/github-logo.svg"></a>
+                    <a  class="profile-social-icon" href="#"><img  src="assets/img/dribble.svg"></a>
+                    <a  class="profile-social-icon" href="#"><img src="assets/img/rss-symbol.svg"></a>
                 </div>
 
                 <div>
@@ -70,17 +70,17 @@
 
                         <div class="row mx-0 d-flex flex-row mt-auto justify-content-between">
                             <div class="post-action-right">
-                                <a class="post-action-item" href="#css"><img src="img/text.svg" width="15"></a>
-                                <a class="post-action-item" href="#css"><img src="img/italic.svg" width="15"></a>
-                                <a class="post-action-item" href="#css"><img src="img/link-in.svg" width="15"></a>
-                                <a class="post-action-item" href="#css"><img src="img/underline.svg" width="15"></a>
-                                <a class="post-action-item" href="#css"><img src="img/bold.svg" width="10"></a>
+                                <a class="post-action-item" href="#css"><img src="assets/img/text.svg" width="15"></a>
+                                <a class="post-action-item" href="#css"><img src="assets/img/italic.svg" width="15"></a>
+                                <a class="post-action-item" href="#css"><img src="assets/img/link-in.svg" width="15"></a>
+                                <a class="post-action-item" href="#css"><img src="assets/img/underline.svg" width="15"></a>
+                                <a class="post-action-item" href="#css"><img src="assets/img/bold.svg" width="10"></a>
                             </div>
 
                             <div class="post-action-left">
-                                <a class="post-action-item" href="#css"><img src="img/attachment.svg" width="15"></a>
-                                <a class="post-action-item" href="#css"><img src="img/mic.svg" width="15"></a>
-                                <a class="post-action-item" href="#css"><img src="img/link.svg" width="15"></a>
+                                <a class="post-action-item" href="#css"><img src="assets/img/attachment.svg" width="15"></a>
+                                <a class="post-action-item" href="#css"><img src="assets/img/mic.svg" width="15"></a>
+                                <a class="post-action-item" href="#css"><img src="assets/img/link.svg" width="15"></a>
                                 <button class="btn publish-btn post-action-item">Publish</button>
                             </div>
                             
@@ -91,23 +91,23 @@
                         <div class="col-md-8 line ml-md-5"></div>
                         <div class="col d-inline-flex mr-md-5 flex-row justify-content-between">
                             <p class="post-filter"><span class="post-filter-title">Sort by:</span> Most Recent Posts</p>
-                            <img src="img/caret.svg">
+                            <img src="assets/img/caret.svg">
                         </div>
                     </div>
                     
                     <div class="row mx-0 mt-md-4 blog-item-wrapper first-child">
                         <div class="d-flex flex-row px-0 blog-item">
                             <div class="blog-item-author-avatar-wrapper">
-                                <img class="blog-item-author-avatar" src="img/naomi.png">
+                                <img class="blog-item-author-avatar" src="assets/img/naomi.png">
                             </div>
                             <div class="blog-item-main d-flex flex-row">
                                 <div class="blog-item-img-wrapper">
-                                    <img class="blog-item-img" src="img/wall.jpg">
+                                    <img class="blog-item-img" src="assets/img/wall.jpg">
                                 </div>
                                 <div class="d-flex flex-column blog-item-main-content">
                                      <div class="d-flex flex-row justify-content-between">
                                          <h2 class="blog-item-header text-left">This is my first Post</h2>
-                                         <img src="img/star.svg">
+                                         <img src="assets/img/star.svg">
                                      </div>
                                      <h6 class="blog-item-author text-left">Oluwa Trumpeter </h6>
                                      <p class="blog-item-content text-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dgiat nuor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dgiat nulla pariatur ....</p>
@@ -126,8 +126,8 @@
                                         </div>
 
                                         <div class="d-flex flex-row align-items-center">
-                                            <img class="blog-item-action" src="img/heart-filled.svg">
-                                            <img class="blog-item-action" src="img/comment.svg">
+                                            <img class="blog-item-action" src="assets/img/heart-filled.svg">
+                                            <img class="blog-item-action" src="assets/img/comment.svg">
                                         </div>
                                     </div>
                                     <p class="blog-item-date">3rd, April 2019 </p>
@@ -141,16 +141,16 @@
                     <div class="row mx-0 blog-item-wrapper">
                         <div class="d-flex flex-row px-0 blog-item">
                             <div class="blog-item-author-avatar-wrapper">
-                                <img class="blog-item-author-avatar" src="img/naomi.png">
+                                <img class="blog-item-author-avatar" src="assets/img/naomi.png">
                             </div>
                             <div class="blog-item-main d-flex flex-row">
                                 <div class="blog-item-img-wrapper">
-                                    <img class="blog-item-img" src="img/image-1.png">
+                                    <img class="blog-item-img" src="assets/img/image-1.png">
                                 </div>
                                 <div class="d-flex flex-column blog-item-main-content">
                                      <div class="d-flex flex-row justify-content-between">
                                          <h2 class="blog-item-header text-left">C.Ronaldo vs Messi</h2>
-                                         <img src="img/star.svg">
+                                         <img src="assets/img/star.svg">
                                      </div>
                                      <h6 class="blog-item-author text-left">Oluwa Trumpeter </h6>
                                      <p class="blog-item-content text-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dgiat nuor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dgiat nulla pariatur ....</p>
@@ -169,8 +169,8 @@
                                         </div>
 
                                         <div class="d-flex flex-row align-items-center">
-                                            <img class="blog-item-action" src="img/heart-filled.svg">
-                                            <img class="blog-item-action" src="img/comment.svg">
+                                            <img class="blog-item-action" src="assets/img/heart-filled.svg">
+                                            <img class="blog-item-action" src="assets/img/comment.svg">
                                         </div>
                                     </div>
                                     <p class="blog-item-date">3rd, April 2019 </p>
@@ -184,16 +184,16 @@
                     <div class="row mx-0 blog-item-wrapper">
                         <div class="d-flex flex-row px-0 blog-item">
                             <div class="blog-item-author-avatar-wrapper">
-                                <img class="blog-item-author-avatar" src="img/avatar-2.jpeg">
+                                <img class="blog-item-author-avatar" src="assets/img/avatar-2.jpeg">
                             </div>
                             <div class="blog-item-main d-flex flex-row">
                                 <div class="blog-item-img-wrapper">
-                                    <img class="blog-item-img" src="img/image-1.png">
+                                    <img class="blog-item-img" src="assets/img/image-1.png">
                                 </div>
                                 <div class="d-flex flex-column blog-item-main-content">
                                      <div class="d-flex flex-row justify-content-between">
                                          <h2 class="blog-item-header text-left">The effect of culture on design trends</h2>
-                                         <img src="img/star.svg">
+                                         <img src="assets/img/star.svg">
                                      </div>
                                      <h6 class="blog-item-author text-left">Oluwa Trumpeter </h6>
                                      <p class="blog-item-content text-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dgiat nuor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dgiat nulla pariatur ....</p>
@@ -212,8 +212,8 @@
                                         </div>
 
                                         <div class="d-flex flex-row align-items-center">
-                                            <img class="blog-item-action" src="img/heart.svg">
-                                            <img class="blog-item-action" src="img/comment.svg">
+                                            <img class="blog-item-action" src="assets/img/heart.svg">
+                                            <img class="blog-item-action" src="assets/img/comment.svg">
                                         </div>
                                     </div>
                                     <p class="blog-item-date">3rd, April 2019 </p>
@@ -227,16 +227,16 @@
                     <div class="row mx-0 blog-item-wrapper">
                         <div class="d-flex flex-row px-0 blog-item">
                             <div class="blog-item-author-avatar-wrapper">
-                                <img class="blog-item-author-avatar" src="img/avatar-2.jpeg">
+                                <img class="blog-item-author-avatar" src="assets/img/avatar-2.jpeg">
                             </div>
                             <div class="blog-item-main d-flex flex-row">
                                 <div class="blog-item-img-wrapper">
-                                    <img class="blog-item-img" src="img/image-1.png">
+                                    <img class="blog-item-img" src="assets/img/image-1.png">
                                 </div>
                                 <div class="d-flex flex-column blog-item-main-content">
                                      <div class="d-flex flex-row justify-content-between">
                                          <h2 class="blog-item-header text-left">This is my first Post</h2>
-                                         <img src="img/star.svg">
+                                         <img src="assets/img/star.svg">
                                      </div>
                                      <h6 class="blog-item-author text-left">Oluwa Trumpeter </h6>
                                      <p class="blog-item-content text-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dgiat nuor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dgiat nulla pariatur ....</p>
@@ -255,8 +255,8 @@
                                         </div>
 
                                         <div class="d-flex flex-row align-items-center">
-                                            <img class="blog-item-action" src="img/heart-filled.svg">
-                                            <img class="blog-item-action" src="img/comment.svg">
+                                            <img class="blog-item-action" src="assets/img/heart-filled.svg">
+                                            <img class="blog-item-action" src="assets/img/comment.svg">
                                         </div>
                                     </div>
                                     <p class="blog-item-date">3rd, April 2019 </p>
@@ -270,16 +270,16 @@
                     <div class="row mx-0 blog-item-wrapper">
                         <div class="d-flex flex-row px-0 blog-item">
                             <div class="blog-item-author-avatar-wrapper">
-                                <img class="blog-item-author-avatar" src="img/avatar-2.jpeg">
+                                <img class="blog-item-author-avatar" src="assets/img/avatar-2.jpeg">
                             </div>
                             <div class="blog-item-main d-flex flex-row">
                                 <div class="blog-item-img-wrapper">
-                                    <img class="blog-item-img" src="img/image-1.png">
+                                    <img class="blog-item-img" src="assets/img/image-1.png">
                                 </div>
                                 <div class="d-flex flex-column blog-item-main-content">
                                      <div class="d-flex flex-row justify-content-between">
                                          <h2 class="blog-item-header text-left">This is my first Post</h2>
-                                         <img src="img/star.svg">
+                                         <img src="assets/img/star.svg">
                                      </div>
                                      <h6 class="blog-item-author text-left">Oluwa Trumpeter </h6>
                                      <p class="blog-item-content text-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dgiat nuor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dgiat nulla pariatur ....</p>
@@ -298,8 +298,8 @@
                                         </div>
 
                                         <div class="d-flex flex-row align-items-center">
-                                            <img class="blog-item-action" src="img/heart.svg">
-                                            <img class="blog-item-action" src="img/comment.svg">
+                                            <img class="blog-item-action" src="assets/img/heart.svg">
+                                            <img class="blog-item-action" src="assets/img/comment.svg">
                                         </div>
                                     </div>
                                     <p class="blog-item-date">3rd, April 2019 </p>
@@ -312,16 +312,16 @@
                     <div class="row mx-0 blog-item-wrapper">
                         <div class="d-flex flex-row px-0 blog-item">
                             <div class="blog-item-author-avatar-wrapper">
-                                <img class="blog-item-author-avatar" src="img/avatar-2.jpeg">
+                                <img class="blog-item-author-avatar" src="assets/img/avatar-2.jpeg">
                             </div>
                             <div class="blog-item-main d-flex flex-row">
                                 <div class="blog-item-img-wrapper">
-                                    <img class="blog-item-img" src="img/image-1.png">
+                                    <img class="blog-item-img" src="assets/img/image-1.png">
                                 </div>
                                 <div class="d-flex flex-column blog-item-main-content">
                                      <div class="d-flex flex-row justify-content-between">
                                          <h2 class="blog-item-header text-left">This is my first Post</h2>
-                                         <img src="img/star.svg">
+                                         <img src="assets/img/star.svg">
                                      </div>
                                      <h6 class="blog-item-author text-left">Oluwa Trumpeter </h6>
                                      <p class="blog-item-content text-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dgiat nuor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dgiat nulla pariatur ....</p>
@@ -340,8 +340,8 @@
                                         </div>
 
                                         <div class="d-flex flex-row align-items-center">
-                                            <img class="blog-item-action" src="img/heart-filled.svg">
-                                            <img class="blog-item-action" src="img/comment.svg">
+                                            <img class="blog-item-action" src="assets/img/heart-filled.svg">
+                                            <img class="blog-item-action" src="assets/img/comment.svg">
                                         </div>
                                     </div>
                                     <p class="blog-item-date">3rd, April 2019 </p>
